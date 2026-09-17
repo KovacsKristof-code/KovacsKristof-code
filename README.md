@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A nevem Kovács Kristóf.
+A nevem Kovács Kristóf.😄
 
 Rólam tudnivalók:
-    A GIT-et gyakorlom
-    Ismerem a python, C#, javaScript, HTML, CSS, BOOTSTRAP-et
-    Szoftverfejlesztő tesztelő informatikus vagyok
+    A GIT-et gyakorlom⚡ 
+    Ismerem a python, C#, javaScript, HTML, CSS, BOOTSTRAP-et⚡ 
+    Szoftverfejlesztő tesztelő informatikus vagyok⚡ 
+
+[link](https://petrik.hu/)
