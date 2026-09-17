@@ -21,4 +21,4 @@ Rólam tudnivalók:
     Ismerem a python, C#, javaScript, HTML, CSS, BOOTSTRAP-et⚡ 
     Szoftverfejlesztő tesztelő informatikus vagyok⚡ 
 
-[link](https://petrik.hu/)
+[link](https://petrik.hu/) 🥀🥀🥀
